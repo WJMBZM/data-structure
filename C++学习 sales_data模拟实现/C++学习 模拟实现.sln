@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++学习 模拟实现", "C++学习 模拟实现.vcxproj", "{FF92393F-901C-424E-B400-C26E00447821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF92393F-901C-424E-B400-C26E00447821}.Debug|x64.ActiveCfg = Debug|x64
+		{FF92393F-901C-424E-B400-C26E00447821}.Debug|x64.Build.0 = Debug|x64
+		{FF92393F-901C-424E-B400-C26E00447821}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF92393F-901C-424E-B400-C26E00447821}.Debug|x86.Build.0 = Debug|Win32
+		{FF92393F-901C-424E-B400-C26E00447821}.Release|x64.ActiveCfg = Release|x64
+		{FF92393F-901C-424E-B400-C26E00447821}.Release|x64.Build.0 = Release|x64
+		{FF92393F-901C-424E-B400-C26E00447821}.Release|x86.ActiveCfg = Release|Win32
+		{FF92393F-901C-424E-B400-C26E00447821}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5295B0B4-EF49-4C88-BF55-17FFA2595E8F}
+	EndGlobalSection
+EndGlobal
